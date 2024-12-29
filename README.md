@@ -17,3 +17,4 @@ In this task, we use will analyse "sales_data.csv" dataset. The dataset describe
     In addition, we will perform a CLV prediction for each of the segments identified during the RFM analysis.
 
     We will visualize the results from this task using Looker Studio. We will transfer this results from above analysis to a Google Sheet and we will connect this sheet to Looker      Studio. Within Looker Studio, we will represent the data in a manner we understand the data better by selecting appropriate visualization forms to make your results insightful     such as the order value over time.
+** Methodology **

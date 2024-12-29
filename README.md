@@ -1,5 +1,5 @@
 ## RFM-Customer-Clustering-and-CLV-Analysis
-Analysis of customers in a marketing senario to better understand Recency, Frequency and Monetary analysis
+Analysis of customers in a marketing senario to better understand Recency, Frequency and Monetary analysis.
 In this task, we use will analyse "sales_data.csv" dataset. The dataset describes sales over time. The dataset contains the following columns:
 
     Date: Transaction date
